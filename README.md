@@ -1,7 +1,7 @@
-# 袁裕杰 · Yujie "Jay" Yuan
+# 袁裕杰 · Yujie Yuan（Jay）
 
-深圳大学 ACCA 方向班在读 | 目标双轨：四大审计 + 独立开发
-Shenzhen University ACCA freshman. Building toward Big Four audit & indie development.
+深圳大学 ACCA 方向班在读 
+Shenzhen University ACCA 
 
 ## What I Build / 我在构建的东西
 
@@ -16,9 +16,9 @@ Shenzhen University ACCA freshman. Building toward Big Four audit & indie develo
 
 ## Track Record / 战绩
 
-- ACCA JHC 2026 广州复赛：AI 驱动碳中和战略报告（中英双语）+ 财务假设数据审计底稿
-- 关节海绵项目（获奖）：商业模式 5 版迭代 + 财务分析与风险分析
-- 岭南大学 LUBCC 商业案例分析大赛：HKPF App 改进全套产品文档
+- ACCA JHC 2026 （进入华南区复赛）：AI 驱动碳中和战略报告（中英双语）+ 财务假设数据审计底稿
+- 关节海绵项目（进入广东省赛）：商业模式 5 版迭代 + 财务分析与风险分析
+- 岭南大学 LUBCC 商业案例分析大赛（三等奖/第六名）：HKPF App 改进全套产品文档
 
 ## How I Work / 我的工作方式
 
@@ -26,5 +26,5 @@ Shenzhen University ACCA freshman. Building toward Big Four audit & indie develo
 I document the process, not just the result — every repo shows how it was built.
 
 ## Contact
-
+- Wechat：yyj18206668807
 - Email: 1727791769@qq.com
