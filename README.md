@@ -1,24 +1,28 @@
 # 袁裕杰 · Yujie Yuan（Jay）
 
-深圳大学 ACCA 方向班在读 
-Shenzhen University ACCA 
+深圳大学 ACCA 方向班在读
+Shenzhen University ACCA
 
-## What I Build / 我在构建的东西
+**简历 + 奖项证明材料（全部可查证）→ [about-me](https://github.com/yyj710/about-me)**
+**Resume & verified award certificates → [about-me](https://github.com/yyj710/about-me)**
 
-- [qianhuoduan](https://github.com/yyj710/qianhuoduan) — 技能交换全栈平台
-  React + Node.js + SQLite，实现注册/发布/智能匹配/聊天/订单/评价完整闭环，含完整 PRD 与产品文档
-- [HKPFapp](https://github.com/yyj710/HKPFapp) — 岭南大学商业案例分析大赛作品
-  香港警务处 App 改进方案：需求文档 + 个性化推送系统架构设计 + 首页重设计
-- TaxLens（整理中）— 金税四期风险仿真器
-  让小微企业在税务局查之前先自查。2026 德勤税务精英挑战赛个人赛道产品方案
-- life-pipeline（整理中）— 我的 AI 生活流水线
-  Python + 飞书 API，15 个模块：自动给日记打标签、生成周度观察、驱动每周深度访谈、更新认知画像
+## Portfolio / 作品集
+
+| Repo | 是什么 / What | 看点 / Highlights |
+|------|--------------|-------------------|
+| [qianhuoduan](https://github.com/yyj710/qianhuoduan) | 技能交换全栈平台 Full-stack skill-sharing platform | **已上线 [chuangying3.netlify.app](https://chuangying3.netlify.app)**；React + Node.js，注册/发布/智能匹配/聊天/订单/评价完整闭环，含完整 PRD |
+| [HKPFapp](https://github.com/yyj710/HKPFapp) | 岭南大学商业案例分析大赛作品 HK Police app redesign | **[在线演示](https://yyj710.github.io/HKPFapp/)** + 3 个改进 GIF；需求文档 + 推送系统设计 + 首页重设计 |
+| [life-pipeline](https://github.com/yyj710/life-pipeline) | 我的 AI 生活流水线 Diary automation pipeline | Python + 飞书 API，15 个模块：日记自动打标签、周度观察、每周深度访谈题库、认知画像更新 |
+| [case-studies](https://github.com/yyj710/case-studies) | 商业竞赛案例库 Competition case library | 关节海绵 · ACCA JHC · 岭南 LUBCC，含全部原始交付物与迭代记录 |
+| TaxLens（整理中） | 金税四期风险仿真器 Tax-risk simulator | 让小微企业在税务局查之前先自查。2026 德勤税务精英挑战赛个人赛道产品方案 |
 
 ## Track Record / 战绩
 
-- ACCA JHC 2026 （进入华南区复赛）：AI 驱动碳中和战略报告（中英双语）+ 财务假设数据审计底稿
+- ACCA JHC 2026（进入华南区复赛，队长）：AI 驱动碳中和战略报告（中英双语）+ 财务假设数据审计底稿
 - 关节海绵项目（进入广东省赛）：商业模式 5 版迭代 + 财务分析与风险分析
-- 岭南大学 LUBCC 商业案例分析大赛（三等奖/第六名）：HKPF App 改进全套产品文档
+- 岭南大学 LUBCC 商业案例分析大赛（三等奖/第六名）：HKPF App 改进全套产品文档 + 可交互原型
+- 粤港澳会计知识竞赛（2026.10）：广东省前 5，进入决赛
+- ACCA 已过 5 门（BT/FA/MA/LW/PM）
 
 ## How I Work / 我的工作方式
 
