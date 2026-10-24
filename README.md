@@ -22,7 +22,7 @@ Shenzhen University ACCA
 - 关节海绵项目（进入广东省赛）：商业模式 5 版迭代 + 财务分析与风险分析
 - 岭南大学 LUBCC 商业案例分析大赛（三等奖/第六名）：HKPF App 改进全套产品文档 + 可交互原型
 - 粤港澳会计知识竞赛（2026.10）：广东省前 5，进入决赛
-- ACCA 已过 5 门（BT/FA/MA/LW/PM）
+- ACCA 已过 7 门（BT/FA/MA/LW/PM/TX/AA）
 
 ## How I Work / 我的工作方式
 
