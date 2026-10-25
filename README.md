@@ -3,8 +3,8 @@
 深圳大学 ACCA 方向班在读
 Shenzhen University ACCA
 
-**简历 + 奖项证明材料（全部可查证）→ [about-me](https://github.com/yyj710/about-me)**
-**Resume & verified award certificates → [about-me](https://github.com/yyj710/about-me)**
+**完整个人档案 + 奖项证明材料（全部可查证）→ [about-me](https://github.com/yyj710/about-me)**
+**Full profile & verified award certificates → [about-me](https://github.com/yyj710/about-me)**
 
 ## Portfolio / 作品集
 
@@ -14,6 +14,7 @@ Shenzhen University ACCA
 | [HKPFapp](https://github.com/yyj710/HKPFapp) | 岭南大学商业案例分析大赛作品 HK Police app redesign | **[在线演示](https://yyj710.github.io/HKPFapp/)** + 3 个改进 GIF；需求文档 + 推送系统设计 + 首页重设计 |
 | [life-pipeline](https://github.com/yyj710/life-pipeline) | 我的 AI 生活流水线 Diary automation pipeline | Python + 飞书 API，15 个模块：日记自动打标签、周度观察、每周深度访谈题库、认知画像更新 |
 | [case-studies](https://github.com/yyj710/case-studies) | 商业竞赛案例库 Competition case library | 关节海绵 · ACCA JHC · 岭南 LUBCC，含全部原始交付物与迭代记录 |
+| [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp) | 会计竞赛备赛工程 Competition prep system | 1472 题×13 模块：题库逆向定位 → Anki → xlsx → AI 生成 → Word 全队分发 |
 | TaxLens（整理中） | 金税四期风险仿真器 Tax-risk simulator | 让小微企业在税务局查之前先自查。2026 德勤税务精英挑战赛个人赛道产品方案 |
 
 ## Track Record / 战绩
