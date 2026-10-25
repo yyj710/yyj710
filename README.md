@@ -3,8 +3,8 @@
 深圳大学 ACCA 方向班在读
 Shenzhen University ACCA
 
-**完整个人档案 + 奖项证明材料（全部可查证）→ [about-me](https://github.com/yyj710/about-me)**
-**Full profile & verified award certificates → [about-me](https://github.com/yyj710/about-me)**
+**完整个人档案 + 奖项证明材料 → [about-me](https://github.com/yyj710/about-me)**
+**Full profile & award certificates → [about-me](https://github.com/yyj710/about-me)**
 
 ## Portfolio / 作品集
 
