@@ -14,7 +14,7 @@ Shenzhen University ACCA
 | [HKPFapp](https://github.com/yyj710/HKPFapp) | 岭南大学商业案例分析大赛作品 HK Police app redesign | **[在线演示](https://yyj710.github.io/HKPFapp/)** + 3 个改进 GIF；需求文档 + 推送系统设计 + 首页重设计 |
 | [life-pipeline](https://github.com/yyj710/life-pipeline) | 我的 AI 生活流水线 Diary automation pipeline | Python + 飞书 API，15 个模块：日记自动打标签、周度观察、每周深度访谈题库、认知画像更新 |
 | [case-studies](https://github.com/yyj710/case-studies) | 商业竞赛案例库 Competition case library | 关节海绵 · ACCA JHC · 岭南 LUBCC，含全部原始交付物与迭代记录 |
-| [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp) | 一个学期的会计学习工程 One semester, three deadlines | **竞赛省前五 + 期末满绩 + 12 月 ACCA FR/FM 全球统考**三线并行：4 个双击就能开的离线刷题工具 +《我怎么和 AI 协作拿结果》（对话原话 / 八次纠偏 / 结果）；1,472 题×13 模块备赛档案仍在 |
+| [accounting-prep-bootcamp](https://github.com/yyj710/accounting-prep-bootcamp) | 一个秋天，四场考试，一套资料 One autumn, four exams, one set of notes | **11/28 竞赛决赛 · 期末 · 12/10 ACCA FR · 12/11 ACCA FM**：同一套会计知识只整理一次，做成 4 个双击就能开的离线刷题工具；附《我怎么和 AI 协作拿结果》（对话原话 / 八次返工 / 哪里判断错了）；1,472 题×13 模块备赛档案仍在 |
 | TaxLens（整理中） | 金税四期风险仿真器 Tax-risk simulator | 让小微企业在税务局查之前先自查。2026 德勤税务精英挑战赛个人赛道产品方案 |
 
 ## Track Record / 战绩
@@ -22,7 +22,7 @@ Shenzhen University ACCA
 - ACCA JHC 2026（进入华南区复赛，队长）：AI 驱动碳中和战略报告（中英双语）+ 财务假设数据审计底稿
 - 关节海绵项目（进入广东省赛）：商业模式 5 版迭代 + 财务分析与风险分析
 - 岭南大学 LUBCC 商业案例分析大赛（三等奖/第六名）：HKPF App 改进全套产品文档 + 可交互原型
-- 粤港澳会计知识竞赛（2026.10）：广东省前 5，进入决赛
+- 粤港澳会计知识竞赛（2026.10）：广东省前 5，进入 11/28 决赛
 - ACCA 已过 7 门（BT/FA/MA/LW/PM/TX/AA）
 
 ## How I Work / 我的工作方式
